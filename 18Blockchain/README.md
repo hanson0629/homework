@@ -31,6 +31,6 @@
 5. Now that the nodes are running, lets add the blockchain to Mycrypto and perform a test transaction. Select change network and 'add custom node', input the information setup during the genesis creation.
     - enter "http://127.0.0.1:8545" for URL as to identify local host
 
-![Alt text](Resources/custon_net.PNG)
+![Alt text](Resources/custom_net.PNG)
 
 6. Afterwards go to keystore file and navigate to the node1 directory to unlock and go into that wallet. Now for the final step perform a transaction to the seconde node address created to test whether our blockchain network is fully functioning!
